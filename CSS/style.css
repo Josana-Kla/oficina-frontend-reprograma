@@ -1,27 +1,36 @@
 body{
   font-size: 12px;
+  background-color: azure;
 }
 
 .caixa-banner{
-  background-image: url(../IMG/banner-bg.png);
+  background-image: url(../IMG/photo.png);
   background-size: cover;
   background-position: center;
   height: 85vh;
-  color: white;     
+  color: rgb(50, 82, 3);     
   display: flex;
   justify-content: space-around;
-  align-items: center;   
+  align-items: flex-end;   
   text-align: center;
+  padding: 100px;
 }
 
 .título1{
   font-size: 2rem ;
-  text-shadow: 2px 2px black;
+  text-shadow: 2px 2px rgb(50, 82, 3);
+}
+
+h1 {
+  font-size: 58px;
+}
+
+p {
+  font-size: 28px;
 }
 
 .subtítulo1{
-  font-size: 28px;
-  text-shadow: 2px 2px black;
+  text-shadow: 2px 2px rgb(50, 82, 3);;
 
 }
 
@@ -29,7 +38,7 @@ body{
   text-decoration: none;
   font-size: 18px;
   text-transform: uppercase;
-  color: #552222;
+  color: rgb(50, 82, 3);
   font-weight: bold;
   background-color: white;
   padding: 8px 20px;
@@ -42,7 +51,7 @@ body{
   text-transform: uppercase;
   color: white;
   font-weight: bold;
-  background-color: #552222;
+  background-color: rgb(19, 31, 1);
   padding: 8px 20px;
   border-radius: 20px;
 }
@@ -59,6 +68,7 @@ body{
 
 .lado1{
   width: 35%;
+  text-align: justify;
 }
 
 .margin-texto{
@@ -95,12 +105,12 @@ ul{
   width: 100%;
 }
 
-.diva{
+.div{
   width: 30%;
 }
 
 .links{
-  background-color: #552222;
+  background-color: rgb(19, 31, 1);
   width: 170px;
   height: 170px;
   text-align: center;
@@ -115,20 +125,29 @@ ul{
 }
 
 
-@media(max-width: 710px){
+@media (max-width: 600px) {
+  .caixa-banner{
+    width: auto;
+    height: 50vh;
+  }
+
   .caixa-sobre{
-     flex-direction: column;
-     justify-content: center;
-     align-items: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 
   .lado1{
      width: 80%;
-     text-align: justify;
+     text-align: center;
+     display: contents;
   }
 
   .lado2{
      width: 80%;
+     text-align: center;
   }
 
   .titulo-sobre{
