@@ -129,8 +129,16 @@ ul{
   .caixa-banner{
     width: auto;
     height: 50vh;
+    padding: 10px;
   }
 
+  h1 {
+    font-size: 38px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
   .caixa-sobre{
     width: 100%;
     display: flex;
