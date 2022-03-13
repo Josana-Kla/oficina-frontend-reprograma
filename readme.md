@@ -2,8 +2,8 @@
 <h1 align="center"> Portfólio Pessoal Oficina Reprograma </h1> 
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Netlify&message=deploy&color=blue&style=for-the-badge&logo=netlify"/>
-  <a href="//www.linkedin.com/in/josana/"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" target="_blank" alt="LinkedIn"></a>
+  <a href="https://portfolio-reprograma-josana.netlify.app"><img src="https://img.shields.io/static/v1?label=Netlify&message=deploy&color=blue&style=for-the-badge&logo=netlify"/></a>
+  <a href="//www.linkedin.com/in/josana/"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" alt="LinkedIn"></a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green"/>
@@ -26,6 +26,8 @@
 :small_blue_diamond: [Desenvolvido por](#desenvolvido-por)
 
 :small_blue_diamond: [Contatos](#contatos)
+
+</br>
 
 ## <a name=“descrição-do-projeto”>🧾Descrição do projeto<a/>  
 
@@ -82,10 +84,10 @@ Ao rodar o arquivo index.html com seu navegador de preferência, você poderá a
 
 ## <a name=“contatos”>☎Contatos<a/>
 
-LinkedIn: [/josana](https://www.linkedin.com/in/josana/) 
+**LinkedIn:** [/josana](https://www.linkedin.com/in/josana/) 
 
-E-mail: [Josana Klagenberg](mailto:josana.0205@gmail.com)
+**E-mail**: [josana.0205@gmail.com](mailto:josana.0205@gmail.com)
 
-Perfil no GitHub: [/Josana-Kla](https://github.com/Josana-Kla)
+**Perfil no GitHub:** [/Josana-Kla](https://github.com/Josana-Kla)
 
 <p align="right">(<a href="#top">Voltar para o topo</a>)</p>
