@@ -129,7 +129,7 @@ ul{
   .caixa-banner{
     width: auto;
     height: 50vh;
-    padding: 10px;
+    padding: 18px;
   }
 
   h1 {
@@ -139,6 +139,7 @@ ul{
   p {
     font-size: 20px;
   }
+  
   .caixa-sobre{
     width: 100%;
     display: flex;
